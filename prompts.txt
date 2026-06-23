@@ -1,0 +1,3964 @@
+-- Countries and Cities --
+Aberdeen is
+Abidjan is
+AbuDhabi is
+Abuja is
+Acapulco is
+Accra is
+AddisAbaba is
+Adelaide is
+Algiers is
+Almaty is
+Amman is
+Amsterdam is
+Anchorage is
+Andorra is
+Angola is
+Ankara is
+Antananarivo is
+Antwerp is
+Arequipa is
+Argentina is
+Armenia is
+Aruba is
+Asuncion is
+Aswan is
+Athens is
+Atlanta is
+Auckland is
+Austin is
+Australia is
+Austria is
+Avignon is
+Azerbaijan is
+Baghdad is
+Bahamas is
+Bahrain is
+Baku is
+Bali is
+Baltimore is
+Bamako is
+Bangalore is
+Bangkok is
+Bangui is
+Banjul is
+Barcelona is
+Bari is
+Barranquilla is
+Basel is
+Basra is
+Bastia is
+Batumi is
+Beijing is
+Beirut is
+Belem is
+Belfast is
+Belgrade is
+Belize is
+BeloHorizonte is
+Benghazi is
+Benin is
+Bergen is
+Berlin is
+Bermuda is
+Bern is
+Bethlehem is
+Bhopal is
+Bhutan is
+Bilbao is
+Birmingham is
+Bishkek is
+Bissau is
+Bloemfontein is
+Bogota is
+Boise is
+Bologna is
+Bolivia is
+Bonn is
+Bordeaux is
+Boston is
+Botswana is
+Brasilia is
+Bratislava is
+Brazzaville is
+Bremen is
+Brest is
+Bridgetown is
+Brisbane is
+Bristol is
+Brno is
+Bruges is
+Brunei is
+Brussels is
+Bucaramanga is
+Bucharest is
+Budapest is
+BuenosAires is
+Buffalo is
+Bujumbura is
+Bulgaria is
+BurkinaFaso is
+Burma is
+Bursa is
+Burundi is
+Busan is
+Cadiz is
+Caen is
+Cagliari is
+Cairns is
+Cairo is
+Calais is
+Calcutta is
+Calgary is
+Cali is
+Cambodia is
+Cambridge is
+Cameroon is
+Canada is
+Canberra is
+Cancun is
+Cannes is
+Canterbury is
+Canton is
+CapeTown is
+Caracas is
+Cardiff is
+Cartagena is
+Casablanca is
+Catania is
+Cayenne is
+Cebu is
+Chad is
+Chandigarh is
+Changsha is
+Charleston is
+Charlotte is
+Chelyabinsk is
+Chengdu is
+Chernobyl is
+Cheyenne is
+Chiba is
+Chicago is
+Chihuahua is
+Chile is
+China is
+Chisinau is
+Chittagong is
+Chongqing is
+Christchurch is
+Cienfuegos is
+Cincinnati is
+Cleveland is
+Cluj is
+Cochin is
+Coimbatore is
+Coimbra is
+Cologne is
+Colombia is
+Colombo is
+Colon is
+Colorado is
+Columbus is
+Comoros is
+Conakry is
+Concepcion is
+Congo is
+Constanta is
+Constantine is
+Copenhagen is
+Coquimbo is
+Cordoba is
+Corfu is
+Cork is
+Corsica is
+Cotonou is
+Coventry is
+Cozumel is
+Cracow is
+Crete is
+Croatia is
+Cuba is
+Cuenca is
+Cuernavaca is
+Cuiaba is
+Curacao is
+Curitiba is
+Cusco is
+Cyprus is
+Czechia is
+Dakar is
+Dalian is
+Dallas is
+Damascus is
+Dammam is
+Danang is
+DarEsSalaam is
+Darwin is
+Davos is
+Dayton is
+Debrecen is
+Delhi is
+Denmark is
+Denver is
+Derby is
+Derry is
+Detroit is
+Dhaka is
+Dijon is
+Dili is
+Djibouti is
+Doha is
+Dominica is
+Donetsk is
+Dortmund is
+Douala is
+Dover is
+Dresden is
+Dubai is
+Dublin is
+Dubrovnik is
+Duisburg is
+Duluth is
+Dundee is
+Dunedin is
+Dunkirk is
+Durban is
+Dushanbe is
+Dusseldorf is
+Ecuador is
+Edinburgh is
+Edison is
+Edmonton is
+Egypt is
+Eilat is
+Eindhoven is
+Elba is
+ElPaso is
+ElSalvador is
+Entebbe is
+Enugu is
+Ephesus is
+Erbil is
+Erfurt is
+Erie is
+Eritrea is
+Esfahan is
+Essen is
+Essex is
+Estonia is
+Eswatini is
+Ethiopia is
+Eugene is
+Evora is
+Exeter is
+Fairbanks is
+Faisalabad is
+Falkland is
+Falmouth is
+Fargo is
+Faro is
+Faroe is
+Fatima is
+Fayetteville is
+Fez is
+Fiji is
+Finland is
+Flint is
+Florence is
+Flores is
+Florianopolis is
+Florida is
+Foggia is
+Fortaleza is
+FortLauderdale is
+FortWayne is
+FortWorth is
+Frankfort is
+Frankfurt is
+Freetown is
+Freiburg is
+Fremont is
+Fresno is
+Fribourg is
+Frisco is
+Fuerteventura is
+Fuji is
+Fukuoka is
+Fukushima is
+Funchal is
+Fuzhou is
+Gabon is
+Gaborone is
+Galapagos is
+Galicia is
+Galway is
+Gambia is
+Gandhinagar is
+Gao is
+Gary is
+Gaza is
+Gaziantep is
+Gdansk is
+Gdynia is
+Geelong is
+Geneva is
+Genoa is
+Georgetown is
+Georgia is
+Germany is
+Gerona is
+Gettysburg is
+Ghana is
+Ghent is
+Gibraltar is
+Gijon is
+Gilbert is
+Giza is
+Glasgow is
+Glendale is
+Goa is
+Gobi is
+Goiania is
+GoldCoast is
+Goma is
+Gomel is
+Gondar is
+Gothenburg is
+Gottingen is
+Gouda is
+Granada is
+GrandRapids is
+Graz is
+Greece is
+GreenBay is
+Greenland is
+Greensboro is
+Greenwich is
+Grenada is
+Grenoble is
+Groningen is
+Grozny is
+Guadalajara is
+Guadalcanal is
+Guadeloupe is
+Guam is
+Guanajuato is
+Guangzhou is
+Guantanamo is
+Guatemala is
+Guayaquil is
+Guaymas is
+Guelph is
+Guernsey is
+Guiana is
+Guildford is
+Guilin is
+Guimaraes is
+Guinea is
+Guiyang is
+Guyana is
+Gwalior is
+Gweru is
+Gyor is
+Haarlem is
+Hague is
+Haifa is
+Haikou is
+Hail is
+Hainan is
+Haiphong is
+Haiti is
+Hakodate is
+Halifax is
+Halle is
+Halmstad is
+Hama is
+Hamadan is
+Hamamatsu is
+Hamilton is
+Hammond is
+Hampshire is
+Hampton is
+Hangzhou is
+Hannover is
+Hanoi is
+Harare is
+Harbin is
+Harrisburg is
+Harrogate is
+Hartford is
+Haryana is
+Hasselt is
+Hastings is
+HatYai is
+Haugesund is
+Havana is
+Hawaii is
+Hayward is
+Hebron is
+Heerlen is
+Hefei is
+Heidelberg is
+Heilbronn is
+Helena is
+Heliopolis is
+Helsingborg is
+Helsingor is
+Helsinki is
+Henderson is
+Hengelo is
+Hereford is
+Hermosillo is
+Herne is
+Hessen is
+Hialeah is
+Himeji is
+Hiroshima is
+Hispaniola is
+Hitachi is
+Hobart is
+Hoboken is
+Hodeidah is
+Hofuf is
+Hohhot is
+HoiAn is
+Hokkaido is
+Holland is
+Hollywood is
+Holon is
+Holstein is
+Holyhead is
+Homs is
+Honduras is
+Honfleur is
+HongKong is
+Honiara is
+Honolulu is
+Hoorn is
+Houston is
+Hove is
+Howrah is
+Hradec is
+Hsinchu is
+Huaian is
+Huainan is
+Hualien is
+Huambo is
+Huancayo is
+Huangshan is
+Huaraz is
+Hubli is
+Huddersfield is
+Hudson is
+Huelva is
+Huesca is
+Hue is
+Huehuetenango is
+Hull is
+Hunan is
+Hungary is
+Huntington is
+Huntsville is
+Huron is
+Husum is
+Hyderabad is
+Hyeres is
+Hyogo is
+Ibadan is
+Ibagué is
+Ibarra is
+Iberia is
+Ibiza is
+Ica is
+Iceland is
+Idaho is
+Ife is
+Iguazu is
+Ilheus is
+Illinois is
+Iloilo is
+Imola is
+Imphal is
+Incheon is
+India is
+Indiana is
+Indianapolis is
+Indore is
+Indre is
+Indus is
+Inhambane is
+Innsbruck is
+Interlaken is
+Inuvik is
+Invercargill is
+Inverness is
+Iowa is
+Ipanema is
+Ipatinga is
+Ipswich is
+Iquique is
+Iquitos is
+Irakion is
+Iran is
+Irapuato is
+Iraq is
+Irbid is
+Ireland is
+Irkutsk is
+Irvine is
+Irving is
+Isabela is
+Isfahan is
+Iskenderun is
+Islamabad is
+Islay is
+Islington is
+Ismailia is
+Isparta is
+Israel is
+Issaquah is
+Istria is
+Itajai is
+Itajuba is
+Italy is
+Ithaca is
+IvoryCoast is
+Ivrea is
+Ivry is
+Iwaki is
+Iwakuni is
+IwoJima is
+Izhevsk is
+Izmir is
+Izmit is
+Izu is
+Jabalpur is
+Jackson is
+Jacksonville is
+Jacmel is
+Jaen is
+Jaffa is
+Jaffna is
+Jaipur is
+Jakarta is
+Jalapa is
+Jamaica is
+Jamestown is
+Jammu is
+Jamnagar is
+Jamshedpur is
+Japan is
+Japura is
+Jasper is
+Jassy is
+Java is
+Jeddah is
+Jefferson is
+Jejudo is
+Jelgava is
+Jena is
+Jenin is
+Jerez is
+Jericho is
+Jersey is
+Jerusalem is
+Jessore is
+Jhansi is
+Jhelum is
+Jiamusi is
+Jiangsu is
+Jiangxi is
+Jiaxing is
+Jidda is
+Jilin is
+Jimma is
+Jinan is
+Jining is
+Jinja is
+Jinju is
+Jinotega is
+Jinzhou is
+Jiujiang is
+Jixi is
+Jodhpur is
+Joensuu is
+Jogjakarta is
+Johannesburg is
+Johnstown is
+Johor is
+Joinville is
+Joliette is
+Jolo is
+Jonkoping is
+Joplin is
+Jordan is
+Juba is
+Jubail is
+Judea is
+Juigalpa is
+Jujuy is
+Julfa is
+Juneau is
+Junin is
+Jura is
+Jutland is
+Jyvaskyla is
+Kabul is
+Kaduna is
+Kagoshima is
+Kahului is
+Kaifeng is
+Kairouan is
+Kaiserslautern is
+Kajaani is
+Kakinada is
+Kalamata is
+Kalamazoo is
+Kalgoorlie is
+Kaliningrad is
+Kalisz is
+Kalmar is
+Kaluga is
+Kamakura is
+Kamloops is
+Kampala is
+Kanagawa is
+Kanazawa is
+Kandahar is
+Kandi is
+Kandy is
+Kane is
+Kanpur is
+Kansas is
+Kao is
+Kaohsiung is
+Kapfenberg is
+Karachi is
+Karaganda is
+Karbala is
+Karditsa is
+Karel is
+Karelia is
+Karlovac is
+KarlovyVary is
+Karlskrona is
+Karlsruhe is
+Karlstad is
+Karnak is
+Karnal is
+Kars is
+Karur is
+Karviná is
+Kasama is
+Kasan is
+Kashan is
+Kashgar is
+Kashiwa is
+Kashmir is
+Kasongo is
+Kassel is
+Kastoria is
+Katanga is
+Katmandu is
+Katoomba is
+Katowice is
+Katsina is
+Katta is
+Kaunas is
+Kavala is
+Kawasaki is
+Kayseri is
+Kazakhstan is
+Kazan is
+Kaza is
+Kearney is
+Kecskemet is
+Kedah is
+Kediri is
+Keelung is
+Keene is
+Keep is
+Keflavik is
+Keighley is
+Keijo is
+Kells is
+Kelowna is
+Kemerovo is
+Kemi is
+Kempten is
+Kendall is
+Kendari is
+Kenitra is
+Kennewick is
+Kenosha is
+Kensington is
+Kent is
+Kentucky is
+Kenya is
+Kera is
+Kerbala is
+Kerch is
+Kerguelen is
+Kerkrade is
+Kermanshah is
+Kerteminen is
+Kesh is
+Keswick is
+Ketchikan is
+KeyWest is
+Khabarovsk is
+Kharkiv is
+Khartoum is
+Kherson is
+Khiva is
+Khmelnitsky is
+Khoms is
+KhonKaen is
+Khorramabad is
+Khorramshahr is
+Khulna is
+Khuzestan is
+Khyber is
+Kicking is
+Kiel is
+Kielce is
+Kyiv is
+Kigali is
+Kikwit is
+Kildare is
+Kilimanjaro is
+Kilkenny is
+Killarney is
+Kilmarnock is
+Kilwa is
+Kimberley is
+Kindu is
+Kingston is
+Kingstown is
+Kinston is
+Kinshasa is
+Kipushi is
+Kirghiz is
+Kirgizia is
+Kiribati is
+Kirin is
+Kirkcaldy is
+Kirkcudbright is
+Kirkland is
+Kirkuk is
+Kirkwall is
+Kirov is
+Kirovograd is
+Kiruna is
+Kisangani is
+Kish is
+Kishinev is
+Kiskunfelegyhaza is
+Kismaayo is
+Kissa is
+Kissimmee is
+Kistna is
+Kisumu is
+Kitakyushu is
+Kitchener is
+Kitami is
+Kitwe is
+Kitzbuhel is
+Kiukiang is
+Kiungchow is
+Kivi is
+Kiyv is
+Kizil is
+Kladno is
+Klagenfurt is
+Klaipeda is
+Klamath is
+Klausenburg is
+Kleve is
+Klim is
+Klon is
+Klondike is
+Knock is
+Knoxville is
+Kobe is
+Koblenz is
+Kocaeli is
+Kochi is
+Kodiak is
+Koforidua is
+Kohat is
+Kohima is
+KohSamui is
+Kokand is
+Kokkola is
+Kokomo is
+Koko is
+Kolda is
+Kolding is
+Kolhapur is
+Kolomna is
+Kolo is
+Kolomyya is
+Kolonia is
+Kolozsvar is
+Komsomolsk is
+Konakry is
+Kong is
+Kongo is
+Konigsberg is
+Koniz is
+Konstanz is
+Konya is
+Kook is
+Kootenay is
+Kopparberg is
+Korca is
+Kordofan is
+Korea is
+Kori is
+Korinth is
+Koror is
+Kortrijk is
+Kosice is
+Kosovo is
+Kossou is
+Kosta is
+Kostroma is
+Kota is
+Kotka is
+Kotonu is
+Kotor is
+Kottbus is
+Koumra is
+Kourou is
+Kouvola is
+Kovno is
+Kowloon is
+Koxinga is
+Koyasan is
+Kozhikode is
+Kozani is
+Kra is
+Kragujevac is
+Krakow is
+Kranj is
+Krasnodar is
+Krasnoyarsk is
+Krefeld is
+Kremenchug is
+Krems is
+Kribi is
+Kristiansand is
+Kristianstad is
+Kristiansund is
+KrivoyRog is
+Krk is
+Kronstadt is
+Kroonstad is
+Krugersdorp is
+Kruševac is
+KualaLumpur is
+Kuanza is
+Kuantan is
+Kuching is
+Kudat is
+Kudsk is
+Kufa is
+Kuka is
+Kula is
+Kuldiga is
+Kulm is
+Kulu is
+Kumamoto is
+Kumand is
+Kumasi is
+Kumba is
+Kumbakonam is
+Kummer is
+Kunming is
+Kunsan is
+Kuopio is
+Kupang is
+Kurd is
+Kurdistan is
+Kure is
+Kuria is
+Kuril is
+Kurland is
+Kurnool is
+Kuroshio is
+Kursk is
+Kuruman is
+Kurume is
+Kush is
+Kusha is
+Kushiro is
+Kustanai is
+Kustendje is
+Kuta is
+Kutaisi is
+Kutch is
+Kutno is
+Kuwait is
+Kuybyshev is
+Kuznetsk is
+Kwajalein is
+Kwangchow is
+Kwangju is
+Kwangtung is
+Kwanza is
+Kweichow is
+Kweilin is
+Kweiyang is
+Kyakhta is
+Kyby is
+Kyffhauser is
+Kyl is
+Kyle is
+Kymmenegard is
+Kyoto is
+Kyrenia is
+Kyushu is
+Kyzyl is
+Kyzylorda is
+Kyzz is
+--- Animals ---
+Albatross is
+Alligator is
+Alpaca is
+Anaconda is
+Angelfish is
+Ant is
+Anteater is
+Antelope is
+Ape is
+Armadillo is
+Baboon is
+Badger is
+Barracuda is
+Bat is
+Bear is
+Beaver is
+Bee is
+Beetle is
+Bison is
+Blackbird is
+Blowfish is
+Bluejay is
+Boa is
+Boar is
+Bobcat is
+Bonobo is
+Bull is
+Bullfrog is
+Bumblebee is
+Butterfly is
+Buzzard is
+Camel is
+Canary is
+Capybara is
+Caribou is
+Carp is
+Cat is
+Catfish is
+Caterpillar is
+Centipede is
+Chameleon is
+Cheetah is
+Chicken is
+Chimpanzee is
+Chinchilla is
+Chipmunk is
+Cicada is
+Clam is
+Clownfish is
+Cobra is
+Cockatoo is
+Cockroach is
+Cod is
+Condor is
+Coot is
+Coral is
+Cormorant is
+Cougar is
+Cow is
+Coyote is
+Crab is
+Crane is
+Crayfish is
+Cricket is
+Crocodile is
+Crow is
+Cuckoo is
+Deer is
+Dingo is
+Dinosaur is
+Dolphin is
+Donkey is
+Dove is
+Dragonfly is
+Duck is
+Dugong is
+Eagle is
+Earthworm is
+Echidna is
+Eel is
+Egrets is
+Elephant is
+Elk is
+Emu is
+Falcon is
+Ferret is
+Finch is
+Firefly is
+Fish is
+Flamingo is
+Flea is
+Flounder is
+Fly is
+Flyingfish is
+Fox is
+Frog is
+Gazelle is
+Gecko is
+Gerbil is
+Gibbon is
+Giraffe is
+Gnat is
+Gnu is
+Goat is
+Goldfish is
+Goose is
+Gopher is
+Gorilla is
+Goshawk is
+Grasshopper is
+Grouse is
+Gull is
+Guppy is
+Hamster is
+Hare is
+Hawk is
+Hedgehog is
+Heron is
+Herring is
+Hippo is
+Hornet is
+Horse is
+Hummingbird is
+Hyena is
+Ibis is
+Iguana is
+Impala is
+Jackal is
+Jaguar is
+Jellyfish is
+Kangaroo is
+Kestrel is
+Kingfisher is
+Kiwi is
+Koala is
+Koi is
+Komodo is
+Kookaburra is
+Krill is
+Ladybug is
+Lamprey is
+Lark is
+Leech is
+Lemur is
+Leopard is
+Lice is
+Lion is
+Lizard is
+Llama is
+Lobster is
+Locust is
+Loon is
+Loris is
+Louse is
+Lynx is
+Macaw is
+Mackerel is
+Magpie is
+Mallard is
+Manatee is
+Mandrill is
+Manta is
+Mantis is
+Marmoset is
+Marmot is
+Marten is
+Meerkat is
+Mink is
+Minnow is
+Mockingbird is
+Mole is
+Mollusk is
+Mongoose is
+Monkey is
+Moose is
+Mosquito is
+Moth is
+Mouflon is
+Mouse is
+Mule is
+Muskox is
+Muskrat is
+Mussel is
+Myna is
+Narwhal is
+Nautilus is
+Newt is
+Nightingale is
+Ocelot is
+Octopus is
+Okapi is
+Opossum is
+Orangutan is
+Orca is
+Oriole is
+Ostrich is
+Otter is
+Owl is
+Ox is
+Oyster is
+Panda is
+Panther is
+Parakeet is
+Parrot is
+Partridge is
+Peacock is
+Pelican is
+Penguin is
+Perch is
+Pheasant is
+Pig is
+Pigeon is
+Pike is
+Piranha is
+Platypus is
+Plover is
+Polarbear is
+Pony is
+Porcupine is
+Porpoise is
+Possum is
+Prawn is
+Puffin is
+Pug is
+Puma is
+Python is
+Quail is
+Quokka is
+Rabbit is
+Raccoon is
+Ram is
+Rat is
+Rattlesnake is
+Raven is
+Ray is
+Redbird is
+Reindeer is
+Rhinoceros is
+Robin is
+Rooster is
+Sable is
+Salmon is
+Sardine is
+Scallop is
+Scorpion is
+Seagull is
+Seahorse is
+Seal is
+Sealion is
+Shark is
+Sheep is
+Shrew is
+Shrimp is
+Silkworm is
+Skunk is
+Sloth is
+Slug is
+Snail is
+Snake is
+Snipe is
+Sparrow is
+Spider is
+Sponge is
+Squid is
+Squirrel is
+Starfish is
+Starling is
+Stingray is
+Stork is
+Sturgeon is
+Swallow is
+Swan is
+Swift is
+Swordfish is
+Tadpole is
+Tamarin is
+Tapir is
+Tarantula is
+Tarsier is
+Termite is
+Thrush is
+Tiger is
+Toad is
+Tortoise is
+Toucan is
+Trout is
+Tuna is
+Turkey is
+Turtle is
+Viper is
+Vulture is
+Wallaby is
+Walrus is
+Wasp is
+Weasel is
+Whale is
+Whippet is
+Wildcat is
+Wolverine is
+Wombat is
+Woodcock is
+Woodpecker is
+Worm is
+Wren is
+Yak is
+Zebra is
+Zebu is
+--- Bands ---
+ABBA is
+ACDC is
+Aerosmith is
+A-ha is
+Air is
+Alestorm is
+Alice In Chains is
+Allman Brothers is
+Anthrax is
+Anathema is
+Apocalyptica is
+Arch Enemy is
+Arcturus is
+Asia is
+Audioslave is
+Avenged Sevenfold is
+Babymetal is
+Bad Company is
+Bad Religion is
+Baroness is
+Bauhaus is
+Beach Boys is
+Beastie Boys is
+Beatles is
+Bee Gees is
+Behemoth is
+Biffy Clyro is
+Big Star is
+Black Flag is
+Black Keys is
+Black Sabbath is
+Blondie is
+Bloodbath is
+Blue Öyster Cult is
+Blur is
+Bon Jovi is
+Breaking Benjamin is
+Bring Me The Horizon is
+Burzum is
+Bush is
+Byrds is
+Canned Heat is
+Cannibal Corpse is
+Carcass is
+Carpenters is
+Cars is
+Catatonia is
+Celtic Frost is
+Cheap Trick is
+Chevelle is
+Chic is
+Clash is
+Clutch is
+Coheed And Cambria is
+Coldplay is
+Corrosion Of Conformity is
+Cradle Of Filth is
+Cranberries is
+Cream is
+Creed is
+Creedence Clearwater is
+Cro-Mags is
+Crowbar is
+Cult is
+Cure is
+Cynic is
+Daft Punk is
+Dark Funeral is
+Darkthrone is
+Dark Tranquillity is
+Dave Matthews Band is
+Dead Kennedys is
+Death is
+Death Cab For Cutie is
+Deep Purple is
+Def Leppard is
+Deftones is
+Deicide is
+Demons And Wizards is
+Depeche Mode is
+Devo is
+Dimmu Borgir is
+Dio is
+Dire Straits is
+Dissection is
+Disturbed is
+Dixie Chicks is
+Doobie Brothers is
+Doors is
+Dream Theater is
+Duran Duran is
+Eagles is
+Earth Wind And Fire is
+Echo And The Bunnymen is
+Edguy is
+Eisbrecher is
+Electric Light Orchestra is
+Eluveitie is
+Emerson Lake And Palmer is
+Emperor is
+Enslaved is
+Entombed is
+Epica is
+Erasure is
+Europe is
+Evanescence is
+Everclear is
+Exodus is
+Explosions In The Sky is
+Faces is
+Faith No More is
+Fall Out Boy is
+Fear Factory is
+Finntroll is
+Fleetwood Mac is
+Flotsam And Jetsam is
+Flogging Molly is
+Foo Fighters is
+Foreigner is
+Foster The People is
+Fugees is
+Garbage is
+Genesis is
+Gojira is
+Godsmack is
+Goo Goo Dolls is
+Gorgoroth is
+Gorillaz is
+Gotthard is
+Grand Funk Railroad is
+Grateful Dead is
+Green Day is
+Grave Digger is
+Guns N' Roses is
+Hammerfall is
+Hatebreed is
+Heart is
+Helloween is
+HIM is
+Hole is
+Hypocrisy is
+Iced Earth is
+Idles is
+Ill Niño is
+Immortal is
+In Flames is
+Incubus is
+Inxs is
+Interpol is
+Iron Maiden is
+Isley Brothers is
+Jane's Addiction is
+Jefferson Airplane is
+Jethro Tull is
+Jimmy Eat World is
+Journey is
+Joy Division is
+Judas Priest is
+Kamalot is
+Kasabian is
+Katatonia is
+Killswitch Engage is
+Kamelot is
+Killers is
+King Crimson is
+King Diamond is
+Kinks is
+KISS is
+Kittie is
+Kooks is
+Korn is
+Korpiklaani is
+Kraftwerk is
+Kreator is
+Kvelertak is
+Lacuna Coil is
+Lamb Of God is
+Led Zeppelin is
+Leaves' Eyes is
+Lifehouse is
+Limp Bizkit is
+Linkin Park is
+Little Feat is
+Living Colour is
+Lordi is
+Love is
+Lush is
+Lynyrd Skynyrd is
+Machine Head is
+Madness is
+Manowar is
+Marilyn Manson is
+Maroon 5 is
+Mars Volta is
+Massive Attack is
+Mastodon is
+Matchbox 20 is
+Mayhem is
+Megadeth is
+Melvins is
+Meshuggah is
+Metallica is
+MGMT is
+Midnight Oil is
+Ministry is
+Misfits is
+Modest Mouse is
+Monkees is
+Moody Blues is
+Moonspell is
+Morbid Angel is
+Mötley Crüe is
+Motörhead is
+Mott The Hoople is
+Mudvayne is
+Mumford And Sons is
+Muse is
+My Chemical Romance is
+Napalm Death is
+Nazareth is
+Neurosis is
+New Order is
+New York Dolls is
+Nickelback is
+Nightwish is
+Nine Inch Nails is
+Nirvana is
+No Doubt is
+Nofx is
+Oasis is
+Obituary is
+Ocean Colour Scene is
+Offspring is
+Opeth is
+Orgy is
+Outkast is
+Overkill is
+Pantera is
+Papa Roach is
+Paradise Lost is
+Paramore is
+Pavement is
+Pearl Jam is
+Pentagram is
+Pet Shop Boys is
+Phish is
+Phoenix is
+Pink Floyd is
+Pixies is
+Placebo is
+Poco is
+Pod is
+Poison is
+Police is
+Porcupine Tree is
+Portishead is
+Powerwolf is
+Primal Scream is
+Primacy is
+Procol Harum is
+Prodigy is
+Prong is
+Puddle Of Mudd is
+Puscifer is
+Queen is
+Queens Of The Stone Age is
+Queensrÿche is
+Raconteurs is
+Radiohead is
+Rage Against The Machine is
+Rainbow is
+Rammstein is
+Ramones is
+Rancid is
+Rasmus is
+Ratt is
+Red Hot Chili Peppers is
+Reel Big Fish is
+REM is
+REO Speedwagon is
+Rise Against is
+Rob Zombie is
+Roxy Music is
+Roxette is
+Rumpelstiltskin is
+Running Wild is
+Rush is
+Sabaton is
+Satyricon is
+Savatage is
+Saxon is
+Scorpions is
+Screaming Trees is
+Script is
+Seether is
+Sepultura is
+Sex Pistols is
+Shadows Fall is
+Shinedown is
+Sigur Rós is
+Simple Minds is
+Simple Plan is
+Siouxsie And The Banshees is
+Six Feet Under is
+Skid Row is
+Skillet is
+Slayer is
+Slipknot is
+Smashing Pumpkins is
+Smiths is
+Sodom is
+Soilwork is
+Sonic Youth is
+Soulfly is
+Soundgarden is
+Spandau Ballet is
+Sparks is
+Spoon is
+Squeeze is
+Staind is
+Status Quo is
+Steely Dan is
+Stereophonics is
+Steppenwolf is
+Stone Roses is
+Stone Sour is
+Stone Temple Pilots is
+Straitjacket is
+Stratovarius is
+Strokes is
+Styx is
+Sublime is
+Suede is
+Sugarcubes is
+Suicidal Tendencies is
+Sum 41 is
+Supertramp is
+Symphony X is
+System Of A Down is
+Tangerine Dream is
+Tankard is
+Tears For Fears is
+Television is
+Tenacious D is
+Tesla is
+Therion is
+Thin Lizzy is
+Third Eye Blind is
+Three Days Grace is
+Threshold is
+Tool is
+Toto is
+Trafalgar is
+Traffic is
+Trapt is
+Tristania is
+Trivium is
+Trower is
+Turisas is
+Type O Negative is
+U2 is
+UFO is
+Unearth is
+Uriah Heep is
+Vader is
+Valensia is
+Van Halen is
+Velvet Underground is
+Velvet Revolver is
+Venom is
+Verve is
+Vision Bleak is
+Volbeat is
+Voivod is
+Wallflowers is
+Warrant is
+Weezer is
+Wham! is
+Whitesnake is
+White Stripes is
+Who is
+Wilco is
+Wings is
+Winterfylleth is
+Wishbone Ash is
+Within Temptation is
+Womack is
+Xandria is
+Xentrix is
+XTC is
+Yardbirds is
+Yellowcard is
+Yes is
+Yngwie Malmsteen is
+Yo La Tengo is
+Zombies is
+ZZ Top is
+-- Emotions --
+Admiration is
+Adoration is
+Affection is
+Agitation is
+Agony is
+Alarm is
+Alienation is
+Amaze is
+Amazement is
+Ambivalence is
+Amusement is
+Anger is
+Anguish is
+Animosity is
+Annoyance is
+Anticipation is
+Anxiety is
+Apathy is
+Appall is
+Appreciation is
+Apprehension is
+Approval is
+Ardor is
+Arousal is
+Astonishment is
+Attraction is
+Aversion is
+Awe is
+Bafflement is
+Bewilderment is
+Bitterness is
+Bliss is
+Boredom is
+Bravery is
+Calm is
+Calmness is
+Care is
+Charity is
+Cheerfulness is
+Comfort is
+Compassion is
+Composure is
+Concern is
+Confidence is
+Confusion is
+Contempt is
+Contentment is
+Courage is
+Cruelty is
+Curiosity is
+Cynicism is
+Defiance is
+Dejection is
+Delight is
+Depression is
+Desire is
+Despair is
+Despondency is
+Detestation is
+Devotion is
+Disappointment is
+Disapproval is
+Discomfort is
+Discontent is
+Disgust is
+Disillusion is
+Dislike is
+Dismay is
+Displeasure is
+Disquiet is
+Distaste is
+Distraction is
+Distress is
+Doubt is
+Dread is
+Eagerness is
+Earnestness is
+Ease is
+Ecstasy is
+Elation is
+Embarrassment is
+Empathy is
+Emptiness is
+Enchantment is
+Enjoyment is
+Enmity is
+Ennui is
+Enthusiasm is
+Envy is
+Esteem is
+Euphoria is
+Exasperation is
+Excitement is
+Exhilaration is
+Expectancy is
+Fascinate is
+Fascination is
+Fear is
+Ferocity is
+Fervor is
+Fickleness is
+Fondness is
+Forlornness is
+Fright is
+Frustration is
+Fury is
+Gaiety is
+Glee is
+Gloom is
+Glumness is
+Gratitude is
+Grief is
+Grimness is
+Grudge is
+Guilt is
+Happiness is
+Harshness is
+Hate is
+Hatred is
+Heartbreak is
+Homesickness is
+Hope is
+Hopefulness is
+Hopelessness is
+Horror is
+Hostility is
+Humiliation is
+Humility is
+Hurt is
+Hysteria is
+Impatience is
+Indifference is
+Indignation is
+Infatuation is
+Insecurity is
+Insult is
+Interest is
+Irksomeness is
+Irritation is
+Isolation is
+Jealousy is
+Jollity is
+Joy is
+Joyfulness is
+Jubilation is
+Kindness is
+Liking is
+Loathing is
+Loneliness is
+Longing is
+Lust is
+Malice is
+Melancholy is
+Mirth is
+Misery is
+Mortification is
+Mourning is
+Nervousness is
+Nostalgia is
+Offense is
+Optimism is
+Outrage is
+Panic is
+Passion is
+Patience is
+Peace is
+Peacefulness is
+Pensive is
+Pessimism is
+Pity is
+Pleasure is
+Pride is
+Rage is
+Rapture is
+Regret is
+Rejection is
+Relaxation is
+Relief is
+Remorse is
+Resentment is
+Resignation is
+Respect is
+Revulsion is
+Sadness is
+Satisfaction is
+Scorn is
+Serenity is
+Shame is
+Shock is
+Shyness is
+Skepticism is
+Sorrow is
+Spite is
+Suffering is
+Surprise is
+Suspicion is
+Sympathy is
+Tenderness is
+Terror is
+Thankfulness is
+Thrill is
+Timidness is
+Timidity is
+Tolerance is
+Torment is
+Tranquility is
+Tranquillity is
+Triumph is
+Trust is
+Unease is
+Uneasiness is
+Unhappiness is
+Unrest is
+Veneration is
+Vexation is
+Vigor is
+Vulnerability is
+Warmth is
+Wary is
+Weariness is
+Woe is
+Wonder is
+Worry is
+Wrath is
+Zeal is
+Zest is
+-- Equations --
+E=mc² is
+F=ma is
+a²+b²=c² is
+V=IR is
+PV=nRT is
+e^(iπ)+1=0 is
+F=G(m1m2)/r² is
+A=πr² is
+C=2πr is
+p=mv is
+E=hf is
+pH=-log[H+] is
+y=mx+b is
+d=rt is
+P=IV is
+W=Fd is
+Q=mcΔT is
+v=fλ is
+ΔS≥0 is
+i²=-1 is
+0*A=0 is
+1/f=1/do+1/di is
+A*1=A is
+A+0=A is
+A+B=B+A is
+A-B=B-A is
+A=bh is
+A(B+C)=AB+AC is
+A(BC)=(AB)C is
+B=μ0I/2πr is
+C=q/V is
+E=-dV/dx is
+K=½Iω² is
+KE=½mv² is
+L=Iω is
+M=m/V is
+P=2l+2w is
+P=F/A is
+P=W/t is
+PE=mgh is
+Q=mL is
+R=ρL/A is
+T=1/f is
+U=-GmM/r is
+U=½CV² is
+V=lwh is
+a/b=c/d is
+a0=1 is
+a_n=1/a^n is
+ad=bc is
+b^(log_b(x))=x is
+cos(2θ)=cos²θ-sin²θ is
+cos(A+B)=cosAcosB-sinAsinB is
+cos(A/2)=±√((1+cosA)/2) is
+cosh(x)=(e^x+e^-x)/2 is
+d/dx(cos x)=-sin x is
+d/dx(e^x)=e^x is
+d/dx(ln x)=1/x is
+d/dx(sin x)=cos x is
+d/dx(x^n)=nx^(n-1) is
+f(x)=c is
+ln(x)=log_e(x) is
+log(xy)=log(x)+log(y) is
+log_b(1)=0 is
+log_b(b)=1 is
+log_b(x)=log_c(x)/log_c(b) is
+log_b(x/y)=log_b(x)-log_b(y) is
+log_b(x^k)=k*log_b(x) is
+log_b(xy)=log_b(x)+log_b(y) is
+m=-di/do is
+n=c/v is
+sin(2θ)=2sinθcosθ is
+sin(A+B)=sinAcosB+cosAsinB is
+sin(A/2)=±√((1-cosA)/2) is
+sin²θ+cos²θ=1 is
+sinh(x)=(e^x-e^-x)/2 is
+tan(2θ)=2tanθ/(1-tan²θ) is
+tan(A+B)=(tanA+tanB)/(1-tanAtanB) is
+tan(A/2)=±√((1-cosA)/(1+cosA)) is
+tanh(x)=sinh(x)/cosh(x) is
+x=(-b±√(b²-4ac))/2a is
+ε=-ΔΦ/Δt is
+λ=h/p is
+ρ=m/V is
+τ=rFsinθ is
+Φ=BAcosθ is
+∫1/xdx=ln|x| is
+∫cos xdx=sin x is
+∫e^xdx=e^x is
+∫sin xdx=-cos x is
+∫x^ndx=x^(n+1)/(n+1) is
+-- Famous People --
+Alexander is
+Alfred The Great is
+Aristotle is
+Augustus is
+Austen is
+Bach is
+Beethoven is
+Bezos is
+Bowie is
+Buddha is
+Caesar is
+Charles I is
+Charles II is
+Charlemagne is
+Chopin is
+Churchill is
+Cicero is
+Cobain is
+Confucius is
+Curie is
+Da Vinci is
+Dickens is
+Edward VII is
+Edward VIII is
+Einstein is
+Elizabeth I is
+Elvis is
+Galileo is
+Gandhi is
+Gates is
+George I is
+George II is
+George III is
+George IV is
+George V is
+George VI is
+Goodall is
+Hadrian is
+Hawking is
+Henry VIII is
+Homer is
+Horace is
+James I is
+James II is
+Jobs is
+King Charles III is
+King John is
+Lincoln is
+Lovelace is
+Madonna is
+Mandela is
+Marcus Aurelius is
+Mercury is
+Michelangelo is
+Mozart is
+Musk is
+Napoleon is
+Nero is
+Newton is
+Oliver Cromwell is
+Orwell is
+Ovid is
+Picasso is
+Plato is
+Prince is
+Queen Anne is
+Queen Elizabeth II is
+Queen Victoria is
+Richard The Lionheart is
+Sagan is
+Shakespeare is
+Socrates is
+Trajan is
+Turing is
+Twain is
+Vivaldi is
+Virgil is
+Washington is
+William III is
+William IV is
+William The Conqueror is
+Zuckerberg is
+Abraham Lincoln is
+Albert Einstein is
+Isaac Newton is
+Nikola Tesla is
+Leonardo Da Vinci is
+Wolfgang Mozart is
+Ludwig Beethoven is
+William Shakespeare is
+Mahatma Gandhi is
+Nelson Mandela is
+Winston Churchill is
+Charles Darwin is
+Galileo Galilei is
+Marie Curie is
+Thomas Edison is
+George Washington is
+Napoleon Bonaparte is
+Steve Jobs is
+Elon Musk is
+Bill Gates is
+Jeff Bezos is
+Mark Zuckerberg is
+Stephen Hawking is
+Jane Goodall is
+Carl Sagan is
+Alan Turing is
+Ada Lovelace is
+George Orwell is
+Mark Twain is
+Charles Dickens is
+Jane Austen is
+Pablo Picasso is
+Vincent Van Gogh is
+Claude Monet is
+Salvador Dali is
+Frida Kahlo is
+Andy Warhol is
+Michael Jackson is
+Elvis Presley is
+Freddie Mercury is
+David Bowie is
+Kurt Cobain is
+John Lennon is
+Paul McCartney is
+Bob Dylan is
+Jimi Hendrix is
+Louis Armstrong is
+Miles Davis is
+Frank Sinatra is
+Aretha Franklin is
+Martin Luther King is
+Malcolm X is
+Rosa Parks is
+Harriet Tubman is
+Susan B. Anthony is
+Eleanor Roosevelt is
+John F. Kennedy is
+Franklin Roosevelt is
+Theodore Roosevelt is
+Thomas Jefferson is
+Benjamin Franklin is
+Alexander Hamilton is
+Julius Caesar is
+Alexander The Great is
+Joan Of Arc is
+Cleopatra is
+Queen Elizabeth I is
+Christopher Columbus is
+Marco Polo is
+Ferdinand Magellan is
+Vasco Da Gama is
+James Cook is
+Roald Amundsen is
+Robert Peary is
+Neil Armstrong is
+Buzz Aldrin is
+Yuri Gagarin is
+Sally Ride is
+Amelia Earhart is
+Charles Lindbergh is
+Wright Brothers is
+Henry Ford is
+John D. Rockefeller is
+Andrew Carnegie is
+J. P. Morgan is
+Walt Disney is
+Steve Wozniak is
+Tim Berners-Lee is
+Linus Torvalds is
+Richard Stallman is
+Grace Hopper is
+Katherine Johnson is
+Dorothy Vaughan is
+Mary Jackson is
+Margaret Hamilton is
+Robert Oppenheimer is
+Richard Feynman is
+Niels Bohr is
+Max Planck is
+Werner Heisenberg is
+Erwin Schrödinger is
+Enrico Fermi is
+Louis Pasteur is
+Robert Koch is
+Alexander Fleming is
+Jonas Salk is
+Sigmund Freud is
+Carl Jung is
+B. F. Radisson is
+William James is
+John Dewey is
+Jean Piaget is
+Noam Chomsky is
+Karl Marx is
+Max Weber is
+Émile Durkheim is
+Adam Smith is
+John Maynard Keynes is
+Milton Friedman is
+Friedrich Hayek is
+Ludwig Von Mises is
+Thomas Malthus is
+David Ricardo is
+John Stuart Mill is
+Jeremy Bentham is
+Thomas Hobbes is
+John Locke is
+Jean-Jacques Rousseau is
+Voltaire is
+Denis Diderot is
+Montesquieu is
+René Descartes is
+Blaise Pascal is
+Pierre De Fermat is
+Gottfried Leibniz is
+Immanuel Kant is
+Georg Hegel is
+Friedrich Nietzsche is
+Arthur Schopenhauer is
+Søren Kierkegaard is
+Jean-Paul Sartre is
+Simone De Beauvoir is
+Albert Camus is
+Michel Foucault is
+Jacques Derrida is
+Gilles Deleuze is
+Walter Benjamin is
+Theodor Adorno is
+Max Horkheimer is
+Herbert Marcuse is
+Hannah Arendt is
+Jürgen Habermas is
+John Rawls is
+Robert Nozick is
+Thomas Aquinas is
+Augustine Of Hippo is
+--- colors ---
+Amber is
+Apricot is
+Aquamarine is
+Azure is
+Baby Blue is
+Beige is
+Black is
+Blue is
+Bronze is
+Brown is
+Burgundy is
+Cerulean is
+Charcoal is
+Copper is
+Crimson is
+Cyan is
+Dark Blue is
+Dark Orange is
+Deep Pink is
+Emerald is
+Fuchsia is
+Gold is
+Gray is
+Green is
+Hot Pink is
+Ice Blue is
+Indigo is
+Ivory is
+Khaki is
+Lavender is
+Lemon is
+Light Blue is
+Light Orange is
+Light Pink is
+Light Yellow is
+Lilac is
+Lime is
+Magenta is
+Maroon is
+Mauve is
+Midnight Blue is
+Mint is
+Navy is
+Navy Blue is
+Olive is
+Orange is
+Orchid is
+Peach is
+Periwinkle is
+Pink is
+Plum is
+Powder Blue is
+Purple is
+Red is
+Rose is
+Royal Blue is
+Ruby is
+Rust is
+Sage is
+Sapphire is
+Scarlet is
+Silver is
+Sky Blue is
+Slate Blue is
+Steel Blue is
+Tan is
+Teal is
+Turquoise is
+Violet is
+White is
+Yellow is
+Alabaster is
+Amethyst is
+Auburn is
+Avocado is
+Blush is
+Bone is
+Brick is
+Caramel is
+Carnation is
+Celadon is
+Champagne is
+Chartreuse is
+Chestnut is
+Chocolate is
+Cinnamon is
+Citron is
+Cobalt is
+Cocoa is
+Coffee is
+Daffodil is
+Denim is
+Ebony is
+Eggplant is
+Eggshell is
+Espresso is
+Fawn is
+Forest Green is
+Frost is
+Garnet is
+Ginger is
+Grape is
+Graphite is
+Hazel is
+Jade is
+Jasmine is
+Jet is
+Lapis is
+Latte is
+Lichen is
+Macaroni is
+Mahogany is
+Maize is
+Mandarines is
+Marigold is
+Melon is
+Merlot is
+Mocha is
+Moss is
+Mulberry is
+Mustard is
+Oatmeal is
+Ocher is
+Onyx is
+Opal is
+Paprika is
+Parchment is
+Pearl is
+Peridot is
+Pewter is
+Pistachio is
+Platinum is
+Pumpkin is
+Quartz is
+Raspberry is
+Rhubarb is
+Sand is
+Sepia is
+Sienna is
+Smoke is
+Soot is
+Spice is
+Straw is
+Sunflower is
+Tangerine is
+Taupe is
+Terra Cotta is
+Thistle is
+Toffee is
+Topaz is
+Tomato is
+Umber is
+Vanilla is
+Walnut is
+Wheat is
+Wine is
+Wisteria is
+-- Trees --
+Alder is
+Ash is
+Aspen is
+Banyan is
+Baobab is
+Beech is
+Birch is
+Buckeye is
+Butternut is
+Cedar is
+Cherry is
+Chinquapin is
+Cypress is
+Dogwood is
+Douglas Fir is
+Elm is
+Fir is
+Ginkgo is
+Hawthorn is
+Hemlock is
+Hickory is
+Holly is
+Hornbeam is
+Ironwood is
+Juniper is
+Larch is
+Laurel is
+Linden is
+Madrona is
+Magnolia is
+Maple is
+Mesquite is
+Mimosa is
+Myrtle is
+Oak is
+Osage Orange is
+Palm is
+Palmetto is
+Pawpaw is
+Pear is
+Pecan is
+Persimmon is
+Pine is
+Planetree is
+Poplar is
+Redbud is
+Redwood is
+Sassafras is
+Sequoia is
+Serviceberry is
+Sourwood is
+Spruce is
+Sweetgum is
+Sycamore is
+Tamarack is
+Teak is
+Tulip Tree is
+Tupelo is
+Willow is
+Witch Hazel is
+Yew is
+Apple is
+Bamboo is
+Basswood is
+Bayberry is
+Black Walnut is
+Boxelder is
+Boxwood is
+Catalpa is
+Cedar Of Lebanon is
+Citrus is
+Clove is
+Coconut is
+Cottonwood is
+Date Palm is
+Elderberry is
+Eucalyptus is
+Fig is
+Frangipani is
+Grapefruit is
+Guava is
+Gum is
+Jacaranda is
+Kapok is
+Kumquat is
+Litchi is
+Logwood is
+Macadamia is
+Mango is
+Mangrove is
+Manzanita is
+Medlar is
+Monkey Puzzle is
+Nutmeg is
+Papaya is
+Pomegranate is
+Quince is
+Rowan is
+Sandalwood is
+Satinwood is
+Silver Maple is
+Sugar Maple is
+Sumac is
+Tamarind is
+Tallowtree is
+Tree Of Heaven is
+Weeping Willow is
+White Oak is
+Yellow Wood is
+-- Flowers --
+Alstroemeria is
+Amaryllis is
+Anemone is
+Anthurium is
+Aster is
+Azalea is
+Begonia is
+Bird Of Paradise is
+Bleeding Heart is
+Bluebell is
+Bougainvillea is
+Buttercup is
+Camellia is
+Canna is
+Chrysanthemum is
+Clematis is
+Clover is
+Columbine is
+Coneflower is
+Coreopsis is
+Cosmos is
+Crocus is
+Cyclamen is
+Dahlia is
+Daisy is
+Delphinium is
+Dianthus is
+Dusty Miller is
+Echinacea is
+Edelweiss is
+Forget Me Not is
+Freesia is
+Gardenia is
+Geranium is
+Gerbera is
+Gladiolus is
+Goldenrod is
+Heather is
+Hibiscus is
+Hollyhock is
+Honeysuckle is
+Hosta is
+Hyacinth is
+Hydrangea is
+Impatiens is
+Iris is
+Jonquil is
+Kalanchoe is
+Lily is
+Lily Of The Valley is
+Lobelia is
+Lotus is
+Lupine is
+Morning Glory is
+Narcissus is
+Nasturtium is
+Oleander is
+Pansy is
+Passion Flower is
+Peony is
+Petunia is
+Phlox is
+Poinsettia is
+Poppy is
+Primrose is
+Protea is
+Ranunculus is
+Rhododendron is
+Rosemary is
+Salvia is
+Scabiosa is
+Snapdragon is
+Snowdrop is
+Statice is
+Sweet Pea is
+Sweet William is
+Trillium is
+Tulip is
+Verbena is
+Veronica is
+Vervain is
+Water Lily is
+Yarrow is
+Zinnia is
+-- Famous Dishes --
+Adobo is
+Arancini is
+Arepa is
+Asado is
+Baklava is
+Barbecue is
+Bbq Ribs is
+Beef Bourguignon is
+Beef Wellington is
+Biryani is
+Bisque is
+Borsch is
+Bouillabaisse is
+Bruschetta is
+Burrito is
+Caesar Salad is
+Cannoli is
+Caprese Salad is
+Carbonara is
+Carpaccio is
+Ceviche is
+Char Kway Teow is
+Cheeseburger is
+Chilaquiles is
+Chili Con Carne is
+Chimichanga is
+Churros is
+Clam Chowder is
+Cobb Salad is
+Coq Au Vin is
+Couscous is
+Crepe is
+Croissant is
+Croque Monsieur is
+Dim Sum is
+Doner Kebab is
+Dumplings is
+Egg Roll is
+Eggs Benedict is
+Empanada is
+Enchilada is
+Escargot is
+Falafel is
+Fajitas is
+Feijoada is
+Fish And Chips is
+Flan is
+Fondue is
+French Onion Soup is
+French Toast is
+Fried Chicken is
+Frittata is
+Gabor is
+Gaspacho is
+Gelato is
+Gyoza is
+Gumbo is
+Gyros is
+Haggis is
+Hummus is
+Jambalaya is
+Kebab is
+Kimchi is
+Lasagna is
+Lobster Roll is
+Mac And Cheese is
+Macarons is
+Mapo Tofu is
+Miso Soup is
+Moussaka is
+Nachos is
+Naan is
+Nasi Goreng is
+Omelette is
+Pad Thai is
+Paella is
+Pancakes is
+Panini is
+Panna Cotta is
+Peking Duck is
+Penne Alla Vodka is
+Pho is
+Pierogi is
+Pizza is
+Polenta is
+Poutine is
+Ramen is
+Ratatouille is
+Ravioli is
+Risotto is
+Roti is
+Samosa is
+Sashimi is
+Satay is
+Schnitzel is
+Shakshuka is
+Shepherds Pie is
+Spring Roll is
+Steak Tartare is
+Sushi is
+Tacos is
+Tamales is
+Tandoori Chicken is
+Tapas is
+Tiramisu is
+Tom Yum is
+Tonkatsu is
+Tortellini is
+Udon is
+Waffles is
+Wonton Soup is
+Yakitori is
+-- Fictional Characters --
+Harry Potter is
+Sherlock Holmes is
+Batman is
+Superman is
+Spider-Man is
+James Bond is
+Darth Vader is
+Luke Skywalker is
+Frodo Baggins is
+Gandalf is
+Bilbo Baggins is
+Jon Snow is
+Daenerys Targaryen is
+Tyrion Lannister is
+Tony Stark is
+Captain America is
+Thor is
+Hulk is
+Black Widow is
+Joker is
+Wonder Woman is
+Katniss Everdeen is
+Percy Jackson is
+Luke Castellan is
+Annabeth Chase is
+Grover Underwood is
+Edward Cullen is
+Bella Swan is
+Jacob Black is
+Indiana Jones is
+Han Solo is
+Princess Leia is
+Yoda is
+Obi-Wan Kenobi is
+Anakin Skywalker is
+Captain Jack Sparrow is
+Elizabeth Swann is
+Will Turner is
+Hector Barbossa is
+Dumbledore is
+Voldemort is
+Ron Weasley is
+Hermione Granger is
+Severus Snape is
+Sirius Black is
+Remus Lupin is
+Rubeus Hagrid is
+Draco Malfoy is
+Gollum is
+Aragorn is
+Legolas is
+Gimli is
+Sauron is
+Saruman is
+Elrond is
+Galadriel is
+Boromir is
+Samwise Gamgee is
+Peter Pan is
+Captain Hook is
+Wendy Darling is
+Tinker Bell is
+Alice is
+Mad Hatter is
+Cheshire Cat is
+Red Queen is
+White Rabbit is
+Pinocchio is
+Geppetto is
+Jiminy Cricket is
+Cinderella is
+Snow White is
+Sleeping Beauty is
+Maleficent is
+Belle is
+Beast is
+Gaston is
+Ariel is
+Ursula is
+Aladdin is
+Genie is
+Jafar is
+Simba is
+Mufasa is
+Scar is
+Nala is
+Timon is
+Pumbaa is
+Hercules is
+Hades is
+Mulan is
+Mushu is
+Tarzan is
+Jane Porter is
+Robin Hood is
+Little John is
+Maid Marian is
+Sheriff Of Nottingham is
+King Arthur is
+Merlin is
+Lancelot is
+Guinevere is
+Morgan Le Fay is
+Dracula is
+Van Helsing is
+Frankenstein is
+Monster is
+Dr. Jekyll is
+Mr. Hyde is
+Sherlock is
+Watson is
+Moriarty is
+Irene Adler is
+Loki is
+Thanos is
+Deadpool is
+Black Panther is
+Doctor Strange is
+Star-Lord is
+Groot is
+Gamora is
+Rocket Raccoon is
+Magneto is
+Professor X is
+Jean Grey is
+Cyclops is
+Storm is
+Mystique is
+Green Lantern is
+Flash is
+Aquaman is
+Nightwing is
+Batgirl is
+Supergirl is
+Catwoman is
+Harley Quinn is
+Lex Luthor is
+Bane is
+Riddler is
+Two-Face is
+Poison Ivy is
+Scarecrow is
+Moby Dick is
+Captain Ahab is
+Ishmael is
+Don Quixote is
+Sancho Panza is
+Gulliver is
+Robinson Crusoe is
+Ebenezer Scrooge is
+Bob Cratchit is
+Tiny Tim is
+Oliver Twist is
+Fagin is
+Artful Dodger is
+David Copperfield is
+Pip is
+Miss Havisham is
+Huckleberry Finn is
+Tom Sawyer is
+Jay Gatsby is
+Daisy Buchanan is
+Nick Carraway is
+Atticus Finch is
+Scout Finch is
+Boo Radley is
+Holden Caulfield is
+Rhett Butler is
+Scarlett O'Hara is
+Dorothy Gale is
+Tin Man is
+Cowardly Lion is
+Wicked Witch is
+Wizard Of Oz is
+Mary Poppins is
+Zorro is
+The Phantom is
+Flash Gordon is
+Buck Rogers is
+Conan The Barbarian is
+Xena is
+Buffy Summers is
+Angel is
+Spike is
+Fox Mulder is
+Dana Scully is
+Walter White is
+Jesse Pinkman is
+Saul Goodman is
+Gus Fring is
+Don Draper is
+Tony Soprano is
+Michael Scott is
+Dwight Schrute is
+Jim Halpert is
+Pam Beesly is
+Homer Simpson is
+Marge Simpson is
+Bart Simpson is
+Lisa Simpson is
+Maggie Simpson is
+Peter Griffin is
+Stewie Griffin is
+Brian Griffin is
+Eric Cartman is
+Stan Marsh is
+Kyle Broflovki is
+Kenny McCormick is
+Rick Sanchez is
+Morty Smith is
+SpongeBob is
+Patrick Star is
+Squidward is
+Mr. Krabs is
+Plankton is
+-- Famous Quotes --
+To Be Or Not To Be That Is The Question is
+I Think Therefore I Am is
+The Only Thing We Have To Fear Is Fear Itself is
+Ask Not What Your Country Can Do For You is
+I Have A Dream is
+To Err Is Human To Forgive Divine is
+All That Glitters Is Not Gold is
+Knowledge Is Power is
+No Man Is An Island is
+The Truth Will Set You Free is
+Carpe Diem is
+Veni Vidi Vici is
+Elementary My Dear Watson is
+Frankly My Dear I Don't Give A Damn is
+Here's Looking At You Kid is
+May The Force Be With You is
+There's No Place Like Home is
+You Talking To Me is
+I'm Gonna Make Him An Offer He Can't Refuse is
+Bond James Bond is
+Houston We Have A Problem is
+You Can't Handle The Truth is
+I'll Be Back is
+Keep Your Friends Close But Your Enemies Closer is
+Life Is Like A Box Of Chocolates is
+Show Me The Money is
+Say Hello To My Little Friend is
+There's No Crying In Baseball is
+You're Gonna Need A Bigger Boat is
+Hasta La Vista Baby is
+That'll Do Pig That'll Do is
+Winter Is Coming is
+To Infinity And Beyond is
+You Had Me At Hello is
+First Rule Of Fight Club is
+I Am Your Father is
+My Precious is
+ET Phone Home is
+Here's Johnny is
+Big Brother Is Watching You is
+All Animals Are Equal is
+It Was The Best Of Times It Was The Worst Of Times is
+Call Me Ishmael is
+In The Beginning God Created The Heavens And The Earth is
+The Unexamined Life Is Not Worth Living is
+What Does Not Kill Us Makes Us Stronger is
+God Is Dead is
+I Can Resist Everything Except Temptation is
+The Only Constant In Life Is Change is
+Time Is Money is
+Genius Is One Percent Inspiration is
+Hell Is Other People is
+The Pen Is Mightier Than The Sword is
+Where There Is Love There Is Life is
+Be The Change You Wish To See In The World is
+Stay Hungry Stay Foolish is
+Float Like A Butterfly Sting Like A Bee is
+Patience Is A Virtue is
+United We Stand Divided We Fall is
+Live And Let Live is
+Knowledge Speaks But Wisdom Listens is
+An Eye For An Eye Makes The Whole World Blind is
+Good Fences Make Good Neighbors is
+The Journey Of A Thousand Miles Begins With A Single Step is
+Fortune Favors The Bold is
+Better Late Than Never is
+Actions Speak Louder Than Words is
+Blood Is Thicker Than Water is
+Birds Of A Feather Flock Together is
+Don't Count Your Chickens Before They Hatch is
+Every Cloud Has A Silver Lining is
+When In Rome Do As The Romans Do is
+Absence Makes The Heart Grow Fonder is
+A Stitch In Time Saves Nine is
+Practice Makes Perfect is
+Honesty Is The Best Policy is
+Cleanliness Is Next To Godliness is
+All's Well That Ends Well is
+Rome Was Not Built In A Day is
+Necessity Is The Mother Of Invention is
+Two Wrongs Don't Make A Right is
+The Early Bird Catches The Worm is
+Look Before You Leap is
+Beggars Can't Be Choosers is
+A Jack Of All Trades Is A Master Of None is
+An Apple A Day Keeps The Doctor Away is
+Laughter Is The Best Medicine is
+You Can't Judge A Book By Its Cover is
+There Is No Time Like The Present is
+Easy Come Easy Go is
+The Grass Is Always Greener On The Other Side is
+Out Of Sight Out Of Mind is
+Money Doesn't Grow On Trees is
+Better Safe Than Sorry is
+A Penny Saved Is A Penny Earned is
+Don't Put All Your Eggs In One Basket is
+No Pain No Gain is
+Beauty Is In The Eye Of The Beholder is
+Ignorance Is Bliss is
+A Chain Is Only As Strong As Its Weakest Link is
+Opposites Attract is
+Still Waters Run Deep is
+Two Heads Are Better Than One is
+When The Going Gets Tough The Tough Get Going is
+You Reap What You Sow is
+Don't Bite The Hand That Feeds You is
+Barking Up The Wrong Tree is
+Burn The Midnight Oil is
+Cry Over Spilled Milk is
+Don't Cry Because It's Over Smile Because It Happened is
+Be Yourself Everyone Else Is Already Taken is
+Two Things Are Infinite The Universe And Human Stupidity is
+So Many Books So Little Time is
+A Room Without Books Is Like A Body Without A Soul is
+You Only Live Once But If You Do It Right Once Is Enough is
+Be The Change That You Wish To See In The World is
+In Three Words I Can Sum Up Everything I've Learned About Life It Goes On is
+If You Tell The Truth You Don't Have To Remember Anything is
+A Friend Is Someone Who Knows All About You And Still Loves You is
+A Martini Shaken Not Stirred is
+In The End We Will Remember Not The Words Of Our Enemies is
+Never Interrupt Your Enemy When He Is Making A Mistake is
+If You Want To Shine Like The Sun First Burn Like The Sun is
+Success Is Not Final Failure Is Not Fatal is
+The Only Way To Have A Friend Is To Be One is
+It Is Never Too Late To Be What You Might Have Been is
+There Is No Great Genius Without Some Touch Of Madness is
+You Must Be The Change You Wish To See In The World is
+Try To Be A Rainbow In Someone's Cloud is
+We Are All In The Gutter But Some Of Us Are Looking At The Stars is
+Insanity Is Doing The Same Thing Over And Over Again is
+We Do Not Inherit The Earth From Our Ancestors We Borrow It From Our Children is
+The Best Way To Predict The Future Is To Create It is
+Life Is What Happens When You're Busy Making Other Plans is
+Get Busy Living Or Get Busy Dying is
+Carpe Diem Seize The Day is
+There Is No Place Like Home is
+Here's Looking At You Kid is
+All Animals Are Equal But Some Animals Are More Equal Than Others is
+Genius Is One Percent Inspiration And Ninety Nine Percent Perspiration is
+The Journey Of A Thousand Miles Begins With A Single Step is
+Fortune Favors The Bold is
+The Early Bird Catches The Worm is
+-- Famous Landmarks --
+Eiffel Tower is
+Statue Of Liberty is
+Great Wall Of China is
+Taj Mahal is
+Colosseum is
+Machu Picchu is
+Christ The Redeemer is
+Pyramids Of Giza is
+Petra is
+Chichen Itza is
+Stonehenge is
+Acropolis is
+Angkor Wat is
+Burj Khalifa is
+Empire State Building is
+Golden Gate Bridge is
+Sydney Opera House is
+Louvre is
+Notre Dame is
+Sacre Coeur is
+Arc De Triomphe is
+Versailles is
+Big Ben is
+Tower Of London is
+London Eye is
+Tower Bridge is
+Buckingham Palace is
+Westminster Abbey is
+St. Basil's Cathedral is
+Kremlin is
+Hermitage is
+Red Square is
+Sagrada Familia is
+Alhambra is
+Park Guell is
+Plaza Mayor is
+Leaning Tower Of Pisa is
+Vatican Museums is
+St. Peter's Basilica is
+Sistine Chapel is
+Trevi Fountain is
+Pantheon is
+Duomo Di Milano is
+Canals Of Venice is
+Pompeii is
+Neuschwanstein Castle is
+Brandenburg Gate is
+Cologne Cathedral is
+Reichstag is
+Rijksmuseum is
+Van Gogh Museum is
+Anne Frank House is
+Hagia Sophia is
+Blue Mosque is
+Topkapi Palace is
+Grand Bazaar is
+Acropolis Museum is
+Parthenon is
+Meteora is
+Santorini Caldera is
+Grand Canyon is
+Yellowstone is
+Yosemite is
+Mount Rushmore is
+White House is
+US Capitol is
+Lincoln Memorial is
+Washington Monument is
+Times Square is
+Central Park is
+Brooklyn Bridge is
+One World Trade Center is
+Space Needle is
+Gateway Arch is
+Hoover Dam is
+Mount Fuji is
+Kinkakuji is
+Fushimi Inari Taisha is
+Sensoji is
+Tokyo Skytree is
+Tokyo Tower is
+Osaka Castle is
+Himeji Castle is
+Gyeongbokgung is
+N Seoul Tower is
+Jeju Island is
+Forbidden City is
+Terracotta Army is
+The Bund is
+Oriental Pearl Tower is
+Potala Palace is
+Victoria Peak is
+Tiananmen Square is
+Marina Bay Sands is
+Gardens By The Bay is
+Merlion is
+Petronas Towers is
+Batu Caves is
+Borobudur is
+Prambanan is
+Tanah Lot is
+Shwedagon Pagoda is
+Bagan is
+Halong Bay is
+Cu Chi Tunnels is
+Angkor Thom is
+Table Mountain is
+Kruger National Park is
+Robben Island is
+Victoria Falls is
+Serengeti is
+Ngorongoro is
+Mount Kilimanjaro is
+Zanzibar Stone Town is
+Valley Of The Kings is
+Karnak Temple is
+Luxor Temple is
+Abu Simbel is
+Alexandria Library is
+Sultan Qaboos Mosque is
+Burj Al Arab is
+Palm Jumeirah is
+Sheikh Zayed Mosque is
+Western Wall is
+Church Of The Holy Sepulchre is
+Dome Of The Rock is
+Baalbek is
+Jeita Grotto is
+Petra Treasury is
+Wadi Rum is
+Dead Sea is
+Masada is
+Sigiriya is
+Temple Of The Tooth is
+Galle Fort is
+Amber Fort is
+Hawa Mahal is
+Qutub Minar is
+Red Fort is
+Gateway Of India is
+Ajanta Caves is
+Ellora Caves is
+Meenakshi Temple is
+Varanasi Ghats is
+Lahore Fort is
+Badshahi Mosque is
+Faisal Mosque is
+Mohenjo Daro is
+Mount Everest is
+Kathmandu Durbar Square is
+Boudhanath Stupa is
+Tiger's Nest Monastery is
+Punakha Dzong is
+Uluru is
+Great Barrier Reef is
+Sydney Harbour Bridge is
+Twelve Apostles is
+Kakadu is
+Milford Sound is
+Hobbiton is
+Franz Josef Glacier is
+Tongariro is
+Moai Statues is
+Galapagos Islands is
+Amazon Rainforest is
+Iguazu Falls is
+Sugarloaf Mountain is
+Copacabana is
+Salar De Uyuni is
+Lake Titicaca is
+Nazca Lines is
+Plaza De Armas is
+Cartagena Walled City is
+San Agustin Park is is
+Angel Falls is
+Old Havana is
+Vinales Valley is
+El Morro is
+Chichen Itza Pyramid is
+Teotihuacán is
+Palenque is
+Tulum is
+Zocalo is
+Guadalupe Basilica is
+CN Tower is
+Banff National Park is
+Niagara Falls is
+Old Quebec is
+Parliament Hill is
+-- Mythical Creatures --
+Dragon is
+Pegasus is
+Unicorn is
+Centaur is
+Minotaur is
+Griffin is
+Chimera is
+Sphinx is
+Kraken is
+Leviathan is
+Hydra is
+Cerberus is
+Medusa is
+Gorgon is
+Siren is
+Harpy is
+Satyr is
+Faun is
+Nymph is
+Dryad is
+Mermaid is
+Merman is
+Vampire is
+Werewolf is
+Zombie is
+Ghoul is
+Gargoyle is
+Goblin is
+Orc is
+Troll is
+Ogre is
+Elf is
+Pixie is
+Fairy is
+Leprechaun is
+Gnome is
+Sprite is
+Imp is
+Banshee is
+Wraith is
+Specter is
+Ghost is
+Poltergeist is
+Demon is
+Valerie is
+Valkyrie is
+Selkie is
+Kelpie is
+Kitsune is
+Tanuki is
+Kappa is
+Tengu is
+Oni is
+Yeti is
+Sasquatch is
+Bigfoot is
+Chupacabra is
+Wendigo is
+Skinwalker is
+Mothman is
+Thunderbird is
+Jackalope is
+Jersey Devil is
+Bunyip is
+Yowie is
+Minhog is
+Manticore is
+Basilisk is
+Cockatrice is
+Wyvern is
+Ouroboros is
+Salamander is
+Sylph is
+Undine is
+Giga is
+Golem is
+Homunculus is
+Titan is
+Giant is
+Naga is
+Garuda is
+Asura is
+Rakshasa is
+Yaksha is
+Fenrir is
+Jormungandr is
+Sleipnir is
+Nidhogg is
+Hippogriff is
+Alicorn is
+Bicorn is
+Qilin is
+Fenghuang is
+Pixiu is
+Nian is
+Jorogumo is
+Gashadokuro is
+Rokurokubi is
+Yuki Onna is
+Nue is
+Gumiho is
+Dokkaebi is
+Mogwai is
+Jiangshi is
+Taniwha is
+Manaia is
+Marakihau is
+Menehune is
+Moa is
+Kupua is
+Nightmarchers is
+Krampus is
+Belsnickel is
+Perchta is
+Jack Frost is
+Sandman is
+Boogeyman is
+Baba Yaga is
+Koschei is
+Leshy is
+Domovoi is
+Rusalka is
+Vodyanoy is
+Firebird is
+Zmey is
+Kikimora is
+Nixie is
+Kobold is
+Hulder is
+Nisse is
+Tomte is
+Mare is
+Changeling is
+Pooka is
+Brownie is
+Boggart is
+Redcap is
+Wyrm is
+Knocker is
+Scylla is
+Charybdis is
+Typhon is
+Orthrus is
+Nemean Lion is
+Lernean Hydra is
+Ceryneian Hind is
+Erymanthian Boar is
+Stymphalian Birds is
+Cretan Bull is
+Mares Of Diomedes is
+Geryon is
+Hesperides is
+Ladon is
+Empusa is
+Lamia is
+Graeae is
+Hecatonchires is
+-- Famous Movies --
+The Godfather is
+The Shawshank Redemption is
+The Dark Knight is
+The Godfather Part II is
+Twelve Angry Men is
+Schindler's List is
+Pulp Fiction is
+The Lord Of The Rings The Return Of The King is
+The Good The Bad And The Ugly is
+Fight Club is
+The Lord Of The Rings The Fellowship Of The Ring is
+Forrest Gump is
+Inception is
+The Lord Of The Rings The Two Towers is
+Star Wars Episode V The Empire Strikes Back is
+The Matrix is
+Goodfellas is
+One Flew Over The Cuckoo's Nest is
+Seven is
+It's A Wonderful Life is
+Seven Samurai is
+The Silence Of The Lambs is
+Saving Private Ryan is
+City Of God is
+Life Is Beautiful is
+The Green Mile is
+Star Wars Episode IV A New Hope is
+Interstellar is
+Terminator 2 Judgment Day is
+Back To The Future is
+Spirited Away is
+The Pianist is
+Psycho is
+Parasite is
+Leon The Professional is
+The Lion King is
+Gladiator is
+American History X is
+The Departed is
+The Usual Suspects is
+The Prestige is
+Whiplash is
+Intouchables is
+Modern Times is
+Once Upon A Time In The West is
+Hara Kiri is
+Grave Of The Fireflies is
+Rear Window is
+Alien is
+City Lights is
+Memento is
+Apocalypse Now is
+Cinema Paradiso is
+Indiana Jones And The Raiders Of The Lost Ark is
+Django Unchained is
+WALL-E is
+The Lives Of Others is
+Sunset Boulevard is
+The Shining is
+Paths Of Glory is
+The Great Dictator is
+Avengers Infinity War is
+Witness For The Prosecution is
+Aliens is
+Spider-Man Into The Spider-Verse is
+American Beauty is
+Dr. Strangelove is
+The Dark Knight Rises is
+Inglourious Basterds is
+The Batman is
+Coco is
+Amadeus is
+Toy Story is
+Braveheart is
+Das Boot is
+Oldboy is
+Avengers Endgame is
+Princess Mononoke is
+Once Upon A Time In America is
+Good Will Hunting is
+Your Name is
+Requiem For A Dream is
+Toy Story 3 is
+High And Low is
+Singin' In The Rain is
+Capernaum is
+Star Wars Episode VI Return Of The Jedi is
+Eternal Sunshine Of The Spotless Mind is
+Come And See is
+The Hunt is
+Reservoir Dogs is
+Citizen Kane is
+The Truman Show is
+Vertigo is
+M is
+Lawrence Of Arabia is
+Double Indemnity is
+Chinatown is
+Full Metal Jacket is
+The Apartment is
+The Silk Road is
+Scarface is
+To Kill A Mockingbird is
+Up is
+Amelie is
+Taxi Driver is
+Heat is
+Metropolis is
+A Clockwork Orange is
+The Sting is
+Die Hard is
+Snatch is
+Indiana Jones And The Last Crusade is
+The Kid is
+Black Swan is
+A Separation is
+The Father is
+Incendies is
+L'Ami is
+Judgment At Nuremberg is
+Ran is
+Unforgiven is
+Monty Python And The Holy Grail is
+Green Book is
+Spider-Man No Way Home is
+Howl's Moving Castle is
+Bicycle Thieves is
+The Grand Budapest Hotel is
+The Third Man is
+The Thing is
+The Gold Rush is
+Pan's Labyrinth is
+The Elephant Man is
+Inside Out is
+Room is
+Lock Stock And Two Smoking Barrels is
+There Will Be Blood is
+The Seventh Seal is
+The Big Lebowski is
+Blade Runner is
+Mad Max Fury Road is
+Blade Runner 2049 is
+No Country For Old Men is
+With The Wind is
+The Wizard Of Oz is
+Jurassic Park is
+Titanic is
+Avatar is
+Jaws is
+E.T. The Extra Terrestrial is
+The Exorcist is
+The Sixth Sense is
+The Avengers is
+Spider-Man is
+The Incredibles is
+Finding Nemo is
+The Social Network is
+No Time To Die is
+Dune is
+Arrival is
+Shutter Island is
+The Wolf Of Wall Street is
+La La Land is
+The Revenant is
+Gravity is
+The Grandmaster is
+Slumdog Millionaire is
+Her is
+Birdman is
+Boyhood is
+The Martian is
+Ex Machina is
+The Hateful Eight is
+Spotlight is
+Get Out is
+Logan is
+A Quiet Place is
+Bohemian Rhapsody is
+Roma is
+The Irishman is
+Knives Out is
+1917 is
+Tenet is
+The Northman is
+Top Gun Maverick is
+Everything Everywhere All At Once is
+Oppenheimer is
+Barbie is
+Dune Part Two is
+-- Famous Books --
+A Tale Of Two Cities is
+The Little Prince is
+The Lord Of The Rings is
+Harry Potter And The Philosophers Stone is
+And Then There Were None is
+The Dream Of The Red Chamber is
+The Hobbit is
+She A History Of Adventure is
+The Lion The Witch And The Wardrobe is
+The Da Vinci Code is
+The Catcher In The Rye is
+The Alchemist is
+Steps To Christ is
+Lolita is
+Heidi is
+The Common Sense Book Of Baby And Child Care is
+Anne Of Green Gables is
+Black Beauty is
+The Name Of The Rose is
+The Eagle Has Landed is
+The Hite Report is
+Charlotte Web is
+The Tale Of Peter Rabbit is
+Harry Potter And The Deathly Hallows is
+Harry Potter And The Half Blood Prince is
+Harry Potter And The Order Of The Phoenix is
+Harry Potter And The Goblet Of Fire is
+Harry Potter And The Prisoner Of Azkaban is
+Harry Potter And The Chamber Of Secrets is
+A Anatomy Of A Murder is
+One Hundred Years Of Solitude is
+The Old Man And The Sea is
+The Great Gatsby is
+Nineteen Eighty Four is
+Animal Farm is
+Brave New World is
+Fahrenheit 451 is
+The Grapes Of Wrath is
+Of Mice And Men is
+The Sun Also Rises is
+For Whom The Bell Tolls is
+A Farewell To Arms is
+The Odyssey is
+The Iliad is
+Pride And Prejudice is
+Sense And Sensibility is
+Emma is
+Persuasion is
+Mansfield Park is
+Northanger Abbey is
+Jane Eyre is
+Wuthering Heights is
+The Tenant Of Wildfell Hall is
+Villette is
+Shirley is
+Agnes Grey is
+Great Expositions is
+A Christmas Carol is
+Bleak House is
+The Pickwick Papers is
+Nicholas Nickleby is
+The Old Curiosity Shop is
+Dombey And Son is
+Hard Times is
+Little Dorrit is
+A Anatomy Of Melancholy is
+The Picture Of Dorian Gray is
+The Strange Case Of Dr Jekyll And Mr Hyde is
+The Time Machine is
+The War Of The Worlds is
+The Invisible Man is
+The Island Of Dr Moreau is
+First Men In The Moon is
+The Count Of Monte Cristo is
+The Three Musketeers is
+Twenty Thousand Leagues Under The Sea is
+Journey To The Center Of The Earth is
+Around The World In Eighty Days is
+Les Miserables is
+The Hunchback Of Notre Dame is
+Madame Bovary is
+The Red And The Black is
+The Charterhouse Of Parma is
+Crime And Punishment is
+The Brothers Karamazov is
+The Idiot is
+Demons is
+Notes From Underground is
+War And Peace is
+Anna Karenina is
+The Death Of Ivan Ilyich is
+Resurrection is
+The Kreutzer Sonata is
+Dead Souls is
+The Inspector General is
+Fathers And Sons is
+First Love is
+Typee is
+Omoo is
+Mardi is
+Redburn is
+White Jacket is
+The Scarlet Letter is
+The House Of The Seven Gables is
+The Blithedale Romance is
+The Marble Faun is
+The Adventures Of Tom Sawyer is
+The Adventures Of Huckleberry Finn is
+A Connecticut Yankee In King Arthurs Court is
+The Prince And The Pauper is
+Life On The Mississippi is
+The Red Badge Of Courage is
+Maggie A Girl Of The Streets is
+The Portrait Of A Lady is
+The Turn Of The Screw is
+The Wings Of The Dove is
+The Ambassadors is
+The Golden Bowl is
+The Call Of The Wild is
+White Fang is
+The Sea Wolf is
+Martin Eden is
+The Iron Heel is
+Sister Carrie is
+An American Tragedy is
+The Financier is
+The Titan is
+The Stoic is
+The Jungle is
+Oil is
+King Coal is
+Dragon Harvest is
+Main Street is
+Babbitt is
+Arrowsmith is
+Elmer Gantry is
+Dodsworth is
+Tender Is The Night is
+This Side Of Paradise is
+The Beautiful And Damned is
+The Last Tycoon is
+The Sound And The Fury is
+As I Lay Dying is
+Light In August is
+Absalom Absalom is
+Go Down Moses is
+The Metamorphosis is
+The Trial is
+The Castle is
+Amerila is
+Ulysses is
+A Portrait Of The Artist As A Young Man is
+Dubliners is
+Finnegans Wake is
+In Search Of Lost Time is
+Swanns Way is
+The Guermantes Way is
+Sodom And Gomorrah is
+The Captive is
+The Magic Mountain is
+Death In Venice is
+Buddenbrooks is
+Doctor Faustus is
+The Confessions Of Felix Krull is
+Siddhartha is
+Demian is
+The Glass Bead Game is
+Narcissus And Goldmund is
+All Quiet On The Western Front is
+The Road Back is
+Three Comrades is
+Arch Of Triumph is
+The Black Obelisk is
+The Stranger is
+The Plague is
+The Fall is
+A Happy Death is
+The First Man is
+Nausea is
+The Age Of Reason is
+The Reprieve is
+Troubled Sleep is
+The Words is
+The Second Sex is
+She Came To Stay is
+The Mandarins is
+Memoirs Of A Dutiful Daughter is
+The All Men Are Mortal is
+Waiting For Godot is
+Molloy is
+Malone Dies is
+The Unnamable is
+Endgame is
+The Tin Drum is
+Cat And Mouse is
+Dog Years is
+Local Anaesthetic is
+The Flounder is
+Love In The Time Of Cholera is
+The Autumn Of The Patriarch is
+Chronicle Of A Death Foretold is
+The General In His Labyrinth is
+The Aleph is
+Ficciones is
+The Labyrinth is
+The Book Of Sand is
+A Universal History Of Iniquity is
+Pedro Paramo is
+The Burning Plain is
+The Death Of Artemio Cruz is
+Aura is
+Terra Nostra is
+-- Diseases --
+Influenza is
+Tuberculosis is
+Malaria is
+Diabetes is
+Asthma is
+Hypertension is
+Osteoarthritis is
+Rheumatoid arthritis is
+Psoriasis is
+Melanoma is
+Glaucoma is
+Cataract is
+Alzheimer is
+Parkinson is
+Multiple sclerosis is
+Epilepsy is
+Migraine is
+Meningitis is
+Encephalitis is
+Schizophrenia is
+Bipolar disorder is
+Autism is
+ADHD is
+Insomnia is
+Sleep apnea is
+Narcolepsy is
+Appendicitis is
+Celiac disease is
+Crohn disease is
+Ulcerative colitis is
+Irritable bowel syndrome is
+Cirrhosis is
+Hepatitis A is
+Hepatitis B is
+Hepatitis C is
+Cholecystitis is
+Pancreatitis is
+GERD is
+Peptic ulcer disease is
+Gastritis is
+Diverticulitis is
+Hemorrhoids is
+Hernia is
+Peritonitis is
+Nephritis is
+Kidney stone disease is
+Chronic kidney disease is
+Urinary tract infection is
+Cystitis is
+Prostatitis is
+Endometriosis is
+Preadolescent ovarian cyst is
+Polycystic ovary syndrome is
+Fibroid is
+Adenomyosis is
+Vaginitis is
+Syphilis is
+Gonorrhea is
+Chlamydia is
+HIV is
+HPV is
+Herpes simplex is
+Shingles is
+Chickenpox is
+Measles is
+Rubella is
+Mumps is
+Whooping cough is
+Diphtheria is
+Tetanus is
+Polio is
+Rabies is
+Cholera is
+Typhoid fever is
+Dysentery is
+Salmonellosis is
+Listeriosis is
+Botulism is
+Lyme disease is
+Dengue fever is
+Zika fever is
+Chikungunya is
+Yellow fever is
+West Nile fever is
+Ebola virus disease is
+Marburg virus disease is
+Lassa fever is
+Hantavirus pulmonary syndrome is
+SARS is
+MERS is
+COVID-19 is
+Bronchitis is
+Pneumonia is
+Emphysema is
+COPD is
+Cystic fibrosis is
+Pulmonary fibrosis is
+Sarcoidosis is
+Asbestosis is
+Silicosis is
+Pneumoconiosis is
+Pulmonary embolism is
+Pulmonary hypertension is
+Atherosclerosis is
+Coronary artery disease is
+Myocardial infarction is
+Angina pectoris is
+Arrhythmia is
+Atrial fibrillation is
+Heart failure is
+Endocarditis is
+Myocarditis is
+Pericarditis is
+Aortic aneurysm is
+Deep vein thrombosis is
+Varicose veins is
+Peripheral artery disease is
+Raynaud disease is
+Stroke is
+TIA is
+Anemia is
+Hemophilia is
+Von Willebrand disease is
+Leukemia is
+Lymphoma is
+Myeloma is
+Thalassemia is
+Sickle cell disease is
+Polycythemia vera is
+Thrombocytopenia is
+Lymphedema is
+Lymphadenitis is
+Splenomegaly is
+Goiter is
+Hyperthyroidism is
+Hypothyroidism is
+Hashimoto thyroiditis is
+Graves disease is
+Cushing syndrome is
+Addison disease is
+Acromegaly is
+Diabetes insipidus is
+Hyperparathyroidism is
+Hypoparathyroidism is
+Gout is
+Pseudogout is
+Osteoporosis is
+Osteomalacia is
+Rickets is
+Paget disease of bone is
+Osteomyelitis is
+Scoliosis is
+Kyphosis is
+Lordosis is
+Fibromyalgia is
+Chronic fatigue syndrome is
+Myasthenia gravis is
+Muscular dystrophy is
+ALS is
+Huntington disease is
+Creutzfeldt-Jakob disease is
+Kuru is
+Scabies is
+Pediculosis is
+Leishmaniasis is
+Trypanosomiasis is
+Chagas disease is
+Schistosomiasis is
+Filariasis is
+Ascariasis is
+Hookworm infection is
+Pinworm infection is
+Trichinosis is
+Taeniasis is
+Hydatid disease is
+Eczema is
+Dermatitis is
+Acne vulgaris is
+Rosacea is
+Vitiligo is
+Alopecia areata is
+Impetigo is
+Cellulitis is
+Erysipelas is
+Folliculitis is
+Furuncle is
+Carbuncle is
+Ringworm is
+Athlete's foot is
+Candidiasis is
+Aspergillosis is
+Histoplasmosis is
+Coccidioidomycosis is
+Blastomycosis is
+Cryptococcosis is
+Mucormycosis is
+Leprosy is
+Bubonic plague is
