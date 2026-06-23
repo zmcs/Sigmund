@@ -6,7 +6,7 @@ A list of prompts separated by concepts (or tags).
 
 
 ## SmolLM2–135M.py
-Reads the prompts from `prompts.txt` and runs them through the chosen model (defined in X). 
+Reads the prompts from `prompts.txt` and runs them through the chosen model (currently using SmolLM2-135M). 
 
 For each neuron, it keeps the peak activation across all tokens in the prompt. It outputs a .npz with the following info for each prompt:
 
