@@ -1,5 +1,5 @@
 # Sigmund
-Sigmund is an ongoing research project exploring Mechanistic Interpretability using lightweight models and specialized toy problems. The goal is to reverse-engineer how language models process specific concepts by mapping internal neural activations. You can find my preliminary experiments on Medium. 
+Sigmund is an ongoing research project exploring Mechanistic Interpretability using lightweight models and specialized toy problems. The goal is to reverse-engineer how language models process specific concepts by mapping internal neural activations. You can find my preliminary experiments on [Medium](https://medium.com/@zmcostasimoes/7530a2503f4d). 
 
 ## prompts.txt
 A list of prompts separated by concepts (or tags).
