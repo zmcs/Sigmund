@@ -36,5 +36,9 @@ This is an early-stage, actively evolving project. Part I (documented here and i
 ## Output Examples
 
 ![Equations semantic footprint](Examples/Equations_Semantic_Footprint.png)
+*Equations semantic footprint.*
+
+<br><br>
 
 ![Neuron Inspection - Token activations at Layer 20, Neuron 337 across the entire dataset. Green bars represent tokens linked to the concept Equations.](Examples/neuron337_layer20.png)
+*Neuron Inspection - Token activations at Layer 20, Neuron 337 across the entire dataset. Green bars represent tokens linked to the concept Equations.*
