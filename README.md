@@ -31,3 +31,10 @@ This is an early-stage, actively evolving project. Part I (documented here and i
 - numpy
 - matplotlib
 - plotly
+
+
+## Output Examples
+
+[Equations semantic footprint](Examples/Equations_Semantic_Footprint.png)
+
+[Neuron Inspection - Token activations at Layer 20, Neuron 337 across the entire dataset. Green bars represent tokens linked to the concept Equations.](Examples/neuron337_layer20.png)
